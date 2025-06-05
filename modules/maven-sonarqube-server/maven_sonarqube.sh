@@ -148,6 +148,6 @@ sudo bash -c 'echo "0 0 * * * root certbot renew --quiet" >> /etc/crontab'
 
 sudo systemctl reload nginx
 
-echo "✅ Setup complete! Access SonarQube at: https://sonarqube.dominionsystem.org"
+echo "✅ Setup complete! Access SonarQube at: https://sonarqube.yklogistictz.com"
 
 
